@@ -104,7 +104,6 @@ selectDropdown.innerHTML = innerHtml;
 
 
 
-
 const sports: string[] = ['soccer', 'basketball', 'baseball'];
 const sports2: Array<string> = ['soccer', 'basketball', 'baseball'];
 console.log(sports);
